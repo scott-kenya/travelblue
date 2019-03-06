@@ -1,0 +1,87 @@
+.sidenav {
+  width: 130px;
+  position: relative;
+  z-index: 1;
+  top: -80px;
+  left: 50px;
+  overflow-x: hidden;
+}
+
+.sidenav a {
+  text-decoration: none;
+  font-size: 15px;
+  font-family: 'agency fb';
+  color: #fff;
+  display: block;
+  text-align: center;
+}
+.sidenav p {
+  text-decoration: none;
+  font-size: 15px;
+  font-family: 'agency fb';
+  color: #fff;
+  display: block;
+  text-align: left;
+}
+
+.sidenav a:hover {
+  color: #064579;
+}
+
+footer{
+    color: white;
+    text-align: center;
+}
+.foot{
+    color: white;
+    text-align: center;
+}
+
+.section{
+  clear: both;
+  padding: 0;
+  margin: 0;
+
+}
+.col{
+  display: block;
+  float: left;
+  margin: 1% 0 1% 1.6%;
+}
+.col:first-child{
+  margin-left: 0;
+}
+.group:before,
+.group:after { 
+  content: ""; 
+  display: table;
+   }
+.group:after {
+  clear:both;
+}
+.group {
+  zoom:1;
+}
+.span_6_of_6{
+  width: 100%;
+}
+.span_5_of_6 {
+  width: 79.68%;
+}
+.span_4_of_6 {
+  width: 59.36%;
+}
+.span_3_of_6 {
+  width: 39.04%;
+}
+.span_2_of_6 {
+  width: 18.72%;
+}
+.span_1_of_6 {
+  width: 20.72%;
+}
+.col img{
+  width: 80%;
+
+
+/* contact page */
